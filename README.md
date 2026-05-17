@@ -1,5 +1,5 @@
 # Insurance-risk-analysis-
-This project focuses on analyzing Insurance cost driver analysis using Excel and SQL 
+This project focuses on analyzing Insurance cost driver analysis using Excel 
 
 Project Objectives
 
